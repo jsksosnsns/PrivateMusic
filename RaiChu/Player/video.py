@@ -182,8 +182,8 @@ async def vplay(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/BotDuniya"),
-                            InlineKeyboardButton("💭 Support", url=f"https://t.me/PmPermit")
+                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/dost_hai_sab"),
+                            InlineKeyboardButton("💭 Support", url=f"https://t.me/dost_hai_sab")
                         ],
                         [
                             InlineKeyboardButton("🗑 Close", callback_data="cls")
@@ -259,8 +259,8 @@ async def vplay(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/BotDuniya"),
-                            InlineKeyboardButton("💭 Support", url=f"https://t.me/PmPermit")
+                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/dost_hai_sab"),
+                            InlineKeyboardButton("💭 Support", url=f"https://t.me/dost_hai_sab")
                         ],
                         [
                             InlineKeyboardButton("🗑 Close", callback_data="cls")
